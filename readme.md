@@ -41,10 +41,11 @@ The program also calculates the user's approximate birth year using the current 
 # 📂 Project Structure
 
 ```bash
-project-folder/
+PR. 1 Fundamental Booster
 │
-├── task1.py
-└── README.md
+├── PR. 1 Fundamental Booster.png
+├── PR. 1 Fundamental Booster.py
+└── readme.md
 ```
 
 ---
@@ -277,15 +278,14 @@ cd PR.1 FUNDAMENTAL BOOSTER
 ## Step 2: Run Python File
 
 ```bash
-python task1.py
+python '.\PR. 1 Fundamental Booster.py'
 ```
 
 ---
 
 # 🖥 Output
 
-![Task1 Output](./task1%20output.png)
-
+![Project Output](PR.%201%20Fundamental%20Booster.png)
 ---
 
 # 🎯 Learning Outcomes
@@ -318,3 +318,11 @@ This project is perfect for Python beginners who want to practice:
 ## Krish Patel
 
 Data Analytics Learner.
+
+---
+
+# 🔗 Resources
+
+- **GitHub Repository**: [https://github.com/patel0506/PR.-1-Fundamental-Booster/tree/master](https://github.com/patel0506/PR.-1-Fundamental-Booster/tree/master)
+
+- **Video Tutorial**: [Watch Video](video.mp4)
