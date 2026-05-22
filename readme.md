@@ -325,4 +325,4 @@ Data Analytics Learner.
 
 - **GitHub Repository**: [https://github.com/patel0506/PR.-1-Fundamental-Booster/tree/master](https://github.com/patel0506/PR.-1-Fundamental-Booster/tree/master)
 
-- **Video Tutorial**: [Watch Video](video.mp4)
+- **Video Tutorial**: <a href="video.mp4" target="_blank">Watch Video</a>
