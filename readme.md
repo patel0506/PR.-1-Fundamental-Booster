@@ -269,7 +269,7 @@ Calculates approximate birth year using current year.
 Navigate to the project folder.
 
 ```bash
-cd project-folder
+cd PR.1 FUNDAMENTAL BOOSTER
 ```
 
 ---
